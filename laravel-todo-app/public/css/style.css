@@ -1,0 +1,4 @@
+/* 独自のCSS */
+.menu-icon::after {
+    display: none;
+}
